@@ -1,2 +1,2 @@
 # 1st
-first git repository
+first git repository by anushka raturi
